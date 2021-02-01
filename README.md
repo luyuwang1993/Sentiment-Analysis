@@ -1,4 +1,4 @@
-# 😀😟Sentiment Analysis😱😤
+# 😀Sentiment Analysis😟
 ## Objective
 The goal of this repository is to provide a tutorial for people who would like to extract sentiments from textual data. We include two reseach cases to illustrate two major sentiment analysis approaches: lexicon-based and machine learning.
 
