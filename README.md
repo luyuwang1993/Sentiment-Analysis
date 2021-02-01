@@ -8,10 +8,14 @@ There are various methods to investigate sentiments. This repository include a n
 
 [Vader and SentiWordnet](https://github.com/luyuwang1993/Sentiment-Analysis/blob/dev-sentiment/Vader-and-SentiWordnet.ipynb "Vader and SentiWordnet")
 
+[TripAdvisor Reviews Sample](https://github.com/luyuwang1993/Sentiment-Analysis/blob/dev-sentiment/review-info-sample.dat "TripAdvisor Reviews Sample")
+
 Ther is the other notebook about supervised Machine Learning methods: Naive Bayes and Support Vector Machine (SVM). We adopt them to work with prelabeled tweets about airlines. Supervise approaches requires pre-classified data in order to train a classifier. You will find more details in the book chapters.
 
 
 [Machine Learning with Naive Baues and SVM](https://github.com/luyuwang1993/Sentiment-Analysis/blob/dev-sentiment/Model-Train.ipynb "Model-Train.ipynb")
+
+[Airline Tweets](https://github.com/luyuwang1993/Sentiment-Analysis/blob/dev-sentiment/Airline-Sentiment-Sample.csv "Airline Tweets")
 
 ## Requirements
 You need the following libraries :
