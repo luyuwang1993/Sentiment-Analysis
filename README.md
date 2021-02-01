@@ -4,9 +4,13 @@ The goal of this repository is to provide a tutorial for people who would like t
 
 ## Introduction
 There are various methods to investigate sentiments. This repository include a notebook about lexical methods (Vader and SentiWordNet). We apply the two methods to understand the sentiment expressed by visitors to Manuel Antonio National Park, Costa Rica. The lexicon-based methods deal with TripAdvisor reviews.
+
+
 [Vader and SentiWordnet](https://github.com/luyuwang1993/Sentiment-Analysis/blob/dev-sentiment/Vader-and-SentiWordnet.ipynb "Vader and SentiWordnet")
 
 Ther is the other notebook about supervised Machine Learning methods: Naive Bayes and Support Vector Machine (SVM). We adopt them to work with prelabeled tweets about airlines. Supervise approaches requires pre-classified data in order to train a classifier. You will find more details in the book chapters.
+
+
 [Machine Learning with Naive Baues and SVM](https://github.com/luyuwang1993/Sentiment-Analysis/blob/dev-sentiment/Model-Train.ipynb "Model-Train.ipynb")
 
 ## Requirements
